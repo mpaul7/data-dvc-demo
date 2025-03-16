@@ -52,3 +52,9 @@ $ git commit -m "Initial commit"
 $ git tag v1.0
 $ git push 
 ```
+```sh
+$ git status
+$ dvc status
+$ 
+$ git push origin v1.0
+```
