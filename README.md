@@ -44,3 +44,11 @@ $ dvc remote add <remote-name> <remote-url>
 $ dvc add <file-name>
 $ dvc push
 ```s
+
+### Git push
+```sh
+$ git add .
+$ git commit -m "Initial commit"
+$ git tag v1.0
+$ git push 
+```
